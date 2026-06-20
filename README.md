@@ -1,8 +1,5 @@
 # andragogy-learning-bot
 WhatsApp-based Mobile Learning Platform
-# Andragogy Learning Bot
-
-WhatsApp-based Mobile Learning Platform
 
 ## System Components
 - **Andragogy** — WhatsApp chatbot for learners
